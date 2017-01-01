@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/nfs/elsrv4/users1/grad/dhauserman/cs377/lab3/src/FileSystem.cpp
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+fstream
+-
+
+/nfs/elsrv4/users1/grad/dhauserman/cs377/lab3/tests/tests.cpp
+../src/FileSystem.cpp
+/nfs/elsrv4/users1/grad/dhauserman/cs377/lab3/src/FileSystem.cpp
+gtest/gtest.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+fstream
+-
+

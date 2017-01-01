@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/nfs/elsrv4/users1/grad/dhauserman/cs377/lab2/starter_code_v3.1/src/BoundedBuffer.cpp
+BoundedBuffer.h
+/nfs/elsrv4/users1/grad/dhauserman/cs377/lab2/starter_code_v3.1/src/BoundedBuffer.h
+
+/nfs/elsrv4/users1/grad/dhauserman/cs377/lab2/starter_code_v3.1/src/BoundedBuffer.h
+stdio.h
+-
+stdlib.h
+-
+pthread.h
+-
+iostream
+-
+
+/nfs/elsrv4/users1/grad/dhauserman/cs377/lab2/starter_code_v3.1/tests/tests.cpp
+../src/BoundedBuffer.cpp
+/nfs/elsrv4/users1/grad/dhauserman/cs377/lab2/starter_code_v3.1/src/BoundedBuffer.cpp
+gtest/gtest.h
+-
+iostream
+-
+fstream
+-
+string
+-
+

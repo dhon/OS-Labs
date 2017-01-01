@@ -1,0 +1,40 @@
+Producer #1, time = 0.000431, producing data item #1, item value=9
+Producer #2, time = 0.000807, producing data item #2, item value=13
+Producer #3, time = 0.000834, producing data item #3, item value=19
+Producer #4, time = 0.000966, producing data item #4, item value=15
+Producer #2, time = 0.001081, producing data item #5, item value=15
+Producer #1, time = 0.000970, producing data item #6, item value=13
+Producer #3, time = 0.001129, producing data item #7, item value=16
+Producer #5, time = 0.001139, producing data item #8, item value=1
+Consumer #2, time = 0.001228, consuming data item with value=9
+Producer #2, time = 0.001290, producing data item #9, item value=18
+Producer #1, time = 0.001344, producing data item #10, item value=15
+Producer #4, time = 0.001294, producing data item #11, item value=16
+Consumer #3, time = 0.001382, consuming data item with value=19
+Consumer #1, time = 0.001255, consuming data item with value=13
+Consumer #2, time = 0.001549, consuming data item with value=15
+Producer #2, time = 0.001569, producing data item #12, item value=15
+Producer #5, time = 0.001558, producing data item #13, item value=14
+Producer #3, time = 0.001400, producing data item #14, item value=0
+Consumer #1, time = 0.001742, consuming data item with value=15
+Consumer #2, time = 0.001758, consuming data item with value=16
+Producer #2, time = 0.001777, producing data item #15, item value=10
+Producer #5, time = 0.001835, producing data item #16, item value=19
+Consumer #3, time = 0.001687, consuming data item with value=13
+Producer #1, time = 0.001693, producing data item #17, item value=3
+Producer #4, time = 0.001866, producing data item #18, item value=4
+Producer #3, time = 0.001923, producing data item #19, item value=14
+Consumer #2, time = 0.001957, consuming data item with value=18
+Consumer #1, time = 0.001954, consuming data item with value=1
+Producer #5, time = 0.002019, producing data item #20, item value=11
+Consumer #3, time = 0.002058, consuming data item with value=16
+Consumer #2, time = 0.002113, consuming data item with value=15
+Consumer #1, time = 0.002140, consuming data item with value=0
+Consumer #3, time = 0.002168, consuming data item with value=14
+Consumer #2, time = 0.002197, consuming data item with value=15
+Consumer #1, time = 0.002224, consuming data item with value=3
+Consumer #3, time = 0.002244, consuming data item with value=10
+Consumer #2, time = 0.002272, consuming data item with value=19
+Consumer #1, time = 0.002300, consuming data item with value=4
+Consumer #3, time = 0.002319, consuming data item with value=14
+Consumer #2, time = 0.002348, consuming data item with value=11

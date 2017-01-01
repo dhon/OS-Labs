@@ -1,0 +1,3 @@
+/nfs/elsrv4/users1/grad/dhauserman/cs377/lab2/starter_code_v3.1/tests/CMakeFiles/edit_cache.dir
+/nfs/elsrv4/users1/grad/dhauserman/cs377/lab2/starter_code_v3.1/tests/CMakeFiles/rebuild_cache.dir
+/nfs/elsrv4/users1/grad/dhauserman/cs377/lab2/starter_code_v3.1/tests/CMakeFiles/runTests.dir
